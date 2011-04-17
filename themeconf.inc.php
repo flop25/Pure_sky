@@ -3,7 +3,7 @@
 Theme Name: Pure_sky
 Version: auto
 Description: Dans le bleu du ciel abandonnez-vous ...
-Theme URI: http://fr.piwigo.org/ext/extension_view.php?eid=446
+Theme URI: http://fr.piwigo.org/ext/extension_view.php?eid=447
 Author: flop25
 Author URI: http://www.planete-flop.fr/
 */
