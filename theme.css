@@ -61,19 +61,21 @@ H2{
 	background: transparent;
 	margin-top: 25px;
 }
- #imageHeaderBar {
+/*
+#imageHeaderBar {
 	background-image: url(images/haut_milieu.jpg);
 	background-position:top;
 	background-repeat:repeat-x;
 	background-color:#FFFFFF;
 	padding-top: 7px;
-	 }
-	  #imageToolBar {
-	  	background-color:#FFFFFF;
- background-image: url(images/bas_milieu.jpg);
- background-position: bottom;
- background-repeat:repeat-x;
 }
+#imageToolBar {
+  background-color:#FFFFFF;
+  background-image: url(images/bas_milieu.jpg);
+  background-position: bottom;
+  background-repeat:repeat-x;
+}
+*/
 /* positionnement */
 #menubar DL, #menubar DT, #the_page, BODY {
 	margin: 0px;
